@@ -2,7 +2,7 @@
 
 To run = python app.py
 
-Input for testing = 
+Inputs for testing = 1984 , The Handmaid's Tale , The Notebook
 
 
 Overview =
